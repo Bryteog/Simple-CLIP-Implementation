@@ -4,7 +4,7 @@
 -------------------------------------------------------------------------------------------------------------
 #### Training is compute intensive and the model seems highly unstable so for now I'm just tuning hyperparameters.
 -------------------------------------------------------------------------------------------------------------
-<\hr>
+<hr/>
 
 Trial Image 1
 <div>
